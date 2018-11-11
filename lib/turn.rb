@@ -9,4 +9,6 @@ puts " #{board[7]}| #{board[8]}| #{board[9]}}"
 
 end
 
-def valid_move(board[])
+def turn(board)
+  puts "Please enter 1-9:"
+end
