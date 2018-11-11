@@ -8,8 +8,3 @@ puts "---------------"
 puts " #{board[7]}| #{board[8]}| #{board[9]}}"
 
 end
-
-def valid_move(board[])
-  return
-
-end
